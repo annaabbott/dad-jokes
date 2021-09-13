@@ -1,0 +1,86 @@
+[
+  {
+      "setup": "Where do sheep go to get their hair cut?",
+      "punchline": "The baa-baa shop.",
+      "id": 301,
+      "type": "general"
+  },
+  {
+      "punchline": "Can't catch me - Avicii",
+      "id": 33,
+      "type": "programming",
+      "setup": "Which song would an exception sing?"
+  },
+  {
+      "id": 363,
+      "setup": "Why do mathematicians hate the U.S.?",
+      "type": "general",
+      "punchline": "Because it's indivisible."
+  },
+  {
+      "id": 354,
+      "setup": "Why didn’t the skeleton cross the road?",
+      "type": "general",
+      "punchline": "Because he had no guts."
+  },
+  {
+      "type": "general",
+      "punchline": "I don't know what he laced them with, but I was tripping all day!",
+      "id": 48,
+      "setup": "I bought some shoes from a drug dealer."
+  },
+  {
+      "id": 145,
+      "setup": "How many South Americans does it take to change a lightbulb?",
+      "punchline": "A Brazilian",
+      "type": "general"
+  },
+  {
+      "id": 122,
+      "type": "general",
+      "punchline": "They log on.",
+      "setup": "How do the trees get on the internet?"
+  },
+  {
+      "punchline": "Shakespeare.",
+      "setup": "What do you call a nervous javelin thrower?",
+      "id": 223,
+      "type": "general"
+  },
+  {
+      "type": "general",
+      "punchline": "It really took a dive...",
+      "id": 97,
+      "setup": "Did you hear about the submarine industry?"
+  },
+  {
+      "setup": "How do you make holy water?",
+      "type": "general",
+      "punchline": "You boil the hell out of it",
+      "id": 53
+  },
+  {
+      "type": "general",
+      "id": 167,
+      "punchline": "Lil Caesars",
+      "setup": "What did Romans use to cut pizza before the rolling cutter was invented?"
+  },
+  {
+      "punchline": "Neither did he.",
+      "id": 102,
+      "setup": "Did you hear the one about the guy with the broken hearing aid?",
+      "type": "general"
+  },
+  {
+      "type": "general",
+      "id": 292,
+      "punchline": "Well, the flag is a big plus.",
+      "setup": "What’s the advantage of living in Switzerland?"
+  },
+  {
+      "id": "f0d2285a-468e-410f-a468-06ff8b60bc50",
+      "setup": "test",
+      "type": "test",
+      "punchline": "test"
+  }
+]
