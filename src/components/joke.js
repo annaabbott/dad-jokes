@@ -1,12 +1,16 @@
-import "./joke.css";
-import Question from "./question";
+import "./Joke.css";
+import Punchline from "./Punchline";
 
-export function Joke(props) {
+function Joke({setup, punchline}) {
   return (
-    <article>
-      <div className="question">{props.question}</div>
-      <Question punchline = {props.answer}/>
-
+    <article >
+      <div className="card">
+        <div className="heading">Question:</div>
+        <div className="question">{setup}</div>
+      </div>
+      <Punchline punchline={punchline} />
     </article>
   );
 }
+
+export default Joke;

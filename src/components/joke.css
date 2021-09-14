@@ -1,0 +1,16 @@
+ article {
+     background-color: #FFB52E;
+     padding: 1rem;
+     width: 25%;
+     margin: 1rem;
+     box-shadow: 5px 5px 5px 3px #fae5be;
+     border-radius: 3%;
+ }
+
+ .heading {
+     font-size: 1.5rem;
+ }
+
+ .card {
+     flex-basis: 33.3%;
+ }
